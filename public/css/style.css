@@ -1,0 +1,53 @@
+.banner {
+    background: url('../img/disnaker.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: black;
+}
+
+.about {
+    padding-top: 5%;
+    padding-bottom: 2%;
+    background-color: lightgray;
+}
+
+.jamsos {
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.table > tbody > tr > *{
+    vertical-align: middle;
+}
+
+.table > tbody > tr > *.center{
+    text-align: center;
+}
+
+.table > thead > tr > th.center{
+    text-align: center;
+}
+
+.img-jamsos {
+    width: cover;
+    height: 500px;
+}
+
+.logo-title {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stroke {
+    color: #fff;
+    font-weight: bolder;
+    -webkit-text-stroke: 0.05em #000;
+ }
+
+ .btn-circle {
+    border-radius: 50%;
+   }
+
