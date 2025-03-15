@@ -1,7 +1,0 @@
---admin--
-1. admin : admin12345
-
---pegawai--
-1. asri : asriyulianto01
-
-https://wb-jamsos.000webhostapp.com/
